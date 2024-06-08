@@ -1,91 +1,91 @@
-ÔªøN;DATA;UNIDADE;PEDIDO ;AP;1;2;3;4;5;6;AN√ÅLISE DE AUDITORIA;PLANO DE A√á√ÉO;RESPONSAVEL;PRAZO;STATUS;RESULTADO
-1;12/01/2024;ISAAC MATRIZ GRAMA;1161;5395;NOK;NOK;OK;NA;OK;OK;Pedido Livre - sem cota√ß√£o - ;Justificativa p/ email -ok solicitamos lista de itens s/ necessidade de cota√ß√£o-retorno ok;VITOR;12/02/2024;FINALIZADO;PONTO DE ATEN√á√ÉO 
-2;15/01/2024;ISAAC MATRIZ GRAMA;257;2871;OK;NOK;OK;NA;OK;OK;Pedido com uma cota√ß√£o - ;solicitamos lista de itens sem necessidade de cota√ß√£o -  retorno ok;VITOR;12/02/2024;FINALIZADO;PONTO DE ATEN√á√ÉO 
-3;15/01/2024;ISAAC MATRIZ GRAMA;251;2851;OK;NOK;OK;NA;OK;OK;Pedido com uma cota√ß√£o - ;solicitamos lista de itens sem necessidade de cota√ß√£o -  retorno ok;VITOR;12/02/2024;FINALIZADO;PONTO DE ATEN√á√ÉO 
-4;15/01/2024;ISAAC MATRIZ GRAMA;256;2853;OK;NOK;OK;NA;OK;OK;Pedido com uma cota√ß√£o - ;solicitamos lista de itens sem necessidade de cota√ß√£o -  retorno ok;VITOR;12/02/2024;FINALIZADO;PONTO DE ATEN√á√ÉO 
-5;15/01/2024;ISAAC MATRIZ GRAMA;268;3097;OK;NOK;OK;NA;OK;OK;Pedido com uma cota√ß√£o - ;solicitamos lista de itens sem necessidade de cota√ß√£o -  retorno ok;VITOR;12/02/2024;FINALIZADO;PONTO DE ATEN√á√ÉO 
-6;15/01/2024;ISAAC MATRIZ GRAMA;561;3382;OK;NOK;OK;NA;OK;OK;Pedido com uma cota√ß√£o - ;solicitamos lista de itens sem necessidade de cota√ß√£o -  retorno ok;VITOR;12/02/2024;FINALIZADO;PONTO DE ATEN√á√ÉO 
-7;15/01/2024;ISAAC MATRIZ GRAMA;1493;7007;NOK;NOK;OK;NA;OK;OK;Pedido Livre - sem cota√ß√£o;solicitamos lista de itens sem necessidade de cota√ß√£o -  retorno ok;VITOR;12/02/2024;FINALIZADO;PONTO DE ATEN√á√ÉO 
-8;12/01/2024;ISAAC MATRIZ GRAMA;1028;1071;NA;NA;NA;NA;NA;OK;Migra√ß√£o de outro sistema, por isso n√£o h√°  historico;solicitei o hist√≥rico do sistema antigo por emaiL para o Renan - retorno ok;RENAN;24/01/2024;FINALIZADO;PONTO DE ATEN√á√ÉO 
-9;12/01/2024;ISAAC MATRIZ GRAMA;1054;1385;NA;NA;NA;NA;NA;OK;Migra√ß√£o de outro sistema, por isso n√£o h√° historico;solicitei o hist√≥rico do sistema antigo por emaiL para o Renan - retorno ok;RENAN;24/04/2024;FINALIZADO;PONTO DE ATEN√á√ÉO 
-10;16/01/2024;ISAAC MATRIZ GRAMA;1972;7666;OK;OK;OK;NA;OK;OK;2 cota√ß√µes obs: venc 26/02;solicitamos lista de itens s/ necessidade de cota√ß√£o -  retorno ok anexado -;VITOR;"
+N;DATA;UNIDADE;PEDIDO ;AP;1;2;3;4;5;6;ANALISE DE AUDITORIA;PLANO DE A«AO;RESPONSAVEL;PRAZO;STATUS;RESULTADO
+1;12/01/2024;ISAAC MATRIZ GRAMA;1161;5395;NOK;NOK;OK;NA;OK;OK;Pedido Livre - sem cotaÁ„o - ;Justificativa p/ email -ok solicitamos lista de itens s/ necessidade de cotaÁ„o-retorno ok;VITOR;12/02/2024;FINALIZADO;PONTO DE ATEN«√O 
+2;15/01/2024;ISAAC MATRIZ GRAMA;257;2871;OK;NOK;OK;NA;OK;OK;Pedido com uma cotaÁ„o - ;solicitamos lista de itens sem necessidade de cotaÁ„o -  retorno ok;VITOR;12/02/2024;FINALIZADO;PONTO DE ATEN«√O 
+3;15/01/2024;ISAAC MATRIZ GRAMA;251;2851;OK;NOK;OK;NA;OK;OK;Pedido com uma cotaÁ„o - ;solicitamos lista de itens sem necessidade de cotaÁ„o -  retorno ok;VITOR;12/02/2024;FINALIZADO;PONTO DE ATEN«√O 
+4;15/01/2024;ISAAC MATRIZ GRAMA;256;2853;OK;NOK;OK;NA;OK;OK;Pedido com uma cotaÁ„o - ;solicitamos lista de itens sem necessidade de cotaÁ„o -  retorno ok;VITOR;12/02/2024;FINALIZADO;PONTO DE ATEN«√O 
+5;15/01/2024;ISAAC MATRIZ GRAMA;268;3097;OK;NOK;OK;NA;OK;OK;Pedido com uma cotaÁ„o - ;solicitamos lista de itens sem necessidade de cotaÁ„o -  retorno ok;VITOR;12/02/2024;FINALIZADO;PONTO DE ATEN«√O 
+6;15/01/2024;ISAAC MATRIZ GRAMA;561;3382;OK;NOK;OK;NA;OK;OK;Pedido com uma cotaÁ„o - ;solicitamos lista de itens sem necessidade de cotaÁ„o -  retorno ok;VITOR;12/02/2024;FINALIZADO;PONTO DE ATEN«√O 
+7;15/01/2024;ISAAC MATRIZ GRAMA;1493;7007;NOK;NOK;OK;NA;OK;OK;Pedido Livre - sem cotaÁ„o;solicitamos lista de itens sem necessidade de cotaÁ„o -  retorno ok;VITOR;12/02/2024;FINALIZADO;PONTO DE ATEN«√O 
+8;12/01/2024;ISAAC MATRIZ GRAMA;1028;1071;NA;NA;NA;NA;NA;OK;MigraÁ„o de outro sistema, por isso n„o h·  historico;solicitei o histÛrico do sistema antigo por emaiL para o Renan - retorno ok;RENAN;24/01/2024;FINALIZADO;PONTO DE ATEN«√O 
+9;12/01/2024;ISAAC MATRIZ GRAMA;1054;1385;NA;NA;NA;NA;NA;OK;MigraÁ„o de outro sistema, por isso n„o h· historico;solicitei o histÛrico do sistema antigo por emaiL para o Renan - retorno ok;RENAN;24/04/2024;FINALIZADO;PONTO DE ATEN«√O 
+10;16/01/2024;ISAAC MATRIZ GRAMA;1972;7666;OK;OK;OK;NA;OK;OK;2 cotaÁıes obs: venc 26/02;solicitamos lista de itens s/ necessidade de cotaÁ„o -  retorno ok anexado -;VITOR;"
 26/02/2024";FINALIZADO;CONFORME
-11;18/01/2024;ISAAC MATRIZ GRAMA;2516;;NA;NA;NA;NA;NA;OK;Na solicita√ß√£o de compras, est√° s/necessidade de cota√ß√£o;solicitamos lista de itens s/ necessidade de cota√ß√£o -  retorno ok anexado -;VITOR;12/02/2024;FINALIZADO;PONTO DE ATEN√á√ÉO 
-12;19/01/2024; QUALLYGRAMA FILIAL CE;1049;9507;OK;NOK;OK;NA;OK;OK;Pedido com uma cota√ß√£o - ;mandei email para o Renan- retorno ok anexado - ;VITOR;25/01/2024;FINALIZADO;PONTO DE ATEN√á√ÉO 
-13;22/01/2024;QUALLYGRAMA FILIAL BA;1571;11522;NOK;NOK;OK;NA;OK;OK;Pedido Livre - sem cota√ß√£o ;mandei email para o Renan- retorno ok anexado - ;VITOR;24/01/2024;FINALIZADO;PONTO DE ATEN√á√ÉO 
-14;25/01/2024;ISAAC MATRIZ GRAMA;2057;7877;OK;NOK;OK;NA;OK;OK;Pedido sem negocia√ß√µes;mandei email para o Renan-para saber o que √© esse valor de despesas acessorias  - retorno ok anexado - Verificar c/ o Fiscal ref os lan√ßamentos de impostos.;BRUNO;26/01/2024;FINALIZADO;PONTO DE ATEN√á√ÉO 
-15;26/01/2024;ISAAC MATRIZ GRAMA;1927;7544;NOK;NOK;OK;NA;OK;OK;Pedido Livre - sem cota√ß√£o ;mandei email para o Renan- retorno ok anexado - ;BRUNO;31/01/2024;FINALIZADO;PONTO DE ATEN√á√ÉO 
-16;26/01/2024;ISAAC MATRIZ GRAMA;1836;7503;NOK;NOK;OK;NA;OK;OK;Pedido Livre - sem cota√ß√£o;mandei email para o Renan- retorno ok anexado - ;BRUNO;31/01/2024;FINALIZADO;PONTO DE ATEN√á√ÉO 
+11;18/01/2024;ISAAC MATRIZ GRAMA;2516;;NA;NA;NA;NA;NA;OK;Na solicitaÁ„o de compras, est· s/necessidade de cotaÁ„o;solicitamos lista de itens s/ necessidade de cotaÁ„o -  retorno ok anexado -;VITOR;12/02/2024;FINALIZADO;PONTO DE ATEN«√O 
+12;19/01/2024; QUALLYGRAMA FILIAL CE;1049;9507;OK;NOK;OK;NA;OK;OK;Pedido com uma cotaÁ„o - ;mandei email para o Renan- retorno ok anexado - ;VITOR;25/01/2024;FINALIZADO;PONTO DE ATEN«√O 
+13;22/01/2024;QUALLYGRAMA FILIAL BA;1571;11522;NOK;NOK;OK;NA;OK;OK;Pedido Livre - sem cotaÁ„o ;mandei email para o Renan- retorno ok anexado - ;VITOR;24/01/2024;FINALIZADO;PONTO DE ATEN«√O 
+14;25/01/2024;ISAAC MATRIZ GRAMA;2057;7877;OK;NOK;OK;NA;OK;OK;Pedido sem negociaÁıes;mandei email para o Renan-para saber o que È esse valor de despesas acessorias  - retorno ok anexado - Verificar c/ o Fiscal ref os lanÁamentos de impostos.;BRUNO;26/01/2024;FINALIZADO;PONTO DE ATEN«√O 
+15;26/01/2024;ISAAC MATRIZ GRAMA;1927;7544;NOK;NOK;OK;NA;OK;OK;Pedido Livre - sem cotaÁ„o ;mandei email para o Renan- retorno ok anexado - ;BRUNO;31/01/2024;FINALIZADO;PONTO DE ATEN«√O 
+16;26/01/2024;ISAAC MATRIZ GRAMA;1836;7503;NOK;NOK;OK;NA;OK;OK;Pedido Livre - sem cotaÁ„o;mandei email para o Renan- retorno ok anexado - ;BRUNO;31/01/2024;FINALIZADO;PONTO DE ATEN«√O 
 17;29/01/2024;ISAAC FILIAL CEREAIS;1991;7997;NA;NA;NA;OK;OK;OK;Pedido urgente - confere no sistema ok;comprovante ok;VITOR;29/01/2024;FINALIZADO;CONFORME
-18;29/01/2024;ISAAC BUENO DE MIRANDA;38;59;OK;OK;OK;NA;OK;OK;Email p/ saber da aprova√ß√£o da AP. que no caso foi o Renan Ventura;retorno do Vitor ok -  comprovante ok;VITOR;30/01/2024;FINALIZADO;PONTO DE ATEN√á√ÉO 
+18;29/01/2024;ISAAC BUENO DE MIRANDA;38;59;OK;OK;OK;NA;OK;OK;Email p/ saber da aprovaÁ„o da AP. que no caso foi o Renan Ventura;retorno do Vitor ok -  comprovante ok;VITOR;30/01/2024;FINALIZADO;PONTO DE ATEN«√O 
 ;;;;;;;;;;;;;;;;
-20;16/01/2024;ISAAC MATRIZ GRAMA;1629;7298/7299;NA;NA;OK;NA;OK;OK;Pedido Livre - sem cota√ß√£o;solicitamos lista de itens sem necessidade de cota√ß√£o - retorno - ok;VITOR;12/02/2024;FINALIZADO;CONFORME
-21;17/01/2024;QUALLYGRAMA MATRIZ;1453;11270;NOK;NOK;OK;NA;OK;OK;Pedido Livre - sem cota√ß√£o;solicitamos lista de itens sem necessidade de cota√ß√£o - retorno ok;VITOR;12/02/2024;FINALIZADO;PONTO DE ATEN√á√ÉO 
-22;22/01/2024;QUALLYGRAMA FILIAL BA;1695;cancelado;NA;NA;NA;NA;NA;NA;Pedido cancelado - Solicita√ß√£o incompleta;-;RENAN;22/01/2024;FINALIZADO;CONFORME
-23;22/01/2024;ISAAC MATRIZ GRAMA;1520;6456;OK;OK;OK;NA;OK;OK;1 cota√ß√£o;solicitamos lista de itens sem necessidade de cota√ß√£o - retorno ok;VITOR;12/02/2024;FINALIZADO;CONFORME
+20;16/01/2024;ISAAC MATRIZ GRAMA;1629;7298/7299;NA;NA;OK;NA;OK;OK;Pedido Livre - sem cotaÁ„o;solicitamos lista de itens sem necessidade de cotaÁ„o - retorno - ok;VITOR;12/02/2024;FINALIZADO;CONFORME
+21;17/01/2024;QUALLYGRAMA MATRIZ;1453;11270;NOK;NOK;OK;NA;OK;OK;Pedido Livre - sem cotaÁ„o;solicitamos lista de itens sem necessidade de cotaÁ„o - retorno ok;VITOR;12/02/2024;FINALIZADO;PONTO DE ATEN«√O 
+22;22/01/2024;QUALLYGRAMA FILIAL BA;1695;cancelado;NA;NA;NA;NA;NA;NA;Pedido cancelado - SolicitaÁ„o incompleta;-;RENAN;22/01/2024;FINALIZADO;CONFORME
+23;22/01/2024;ISAAC MATRIZ GRAMA;1520;6456;OK;OK;OK;NA;OK;OK;1 cotaÁ„o;solicitamos lista de itens sem necessidade de cotaÁ„o - retorno ok;VITOR;12/02/2024;FINALIZADO;CONFORME
 24;22/01/2024; ISAAC FILIAL CEREAIS;1833;7502;OK;NA;OK;NA;OK;OK;Pedido exclusivo;comprovante ok;BRUNO;22/01/2024;FINALIZADO;CONFORME
-25;22/01/2024; ISAAC FILIAL CEREAIS;1758;7169;NOK;NOK;OK;NA;OK;OK;Pedido Livre - sem cota√ß√£o;solicitamos lista de itens sem necessidade de cota√ß√£o -  aguardando ok;VITOR;12/02/2024;FINALIZADO;PONTO DE ATEN√á√ÉO 
-26;22/01/2024; ISAAC FILIAL CEREAIS;1695;7165;NOK;NOK;OK;NA;OK;OK;Pedido Livre - sem cota√ß√£o;solicitamos lista de itens sem necessidade de cota√ß√£o -  retorno ok;VITOR;12/02/2024;FINALIZADO;PONTO DE ATEN√á√ÉO 
-27;01/02/2024; QUALLYGRAMA FILIAL CE;1639;12349;NOK;NOK;OK;NA;NOK;OK;sem cota√ß√£o - e aprova√ß√£o indevida ;mandei email para o Vitor - retorno ok;VITOR;01/02/2024;FINALIZADO;PONTO DE ATEN√á√ÉO 
+25;22/01/2024; ISAAC FILIAL CEREAIS;1758;7169;NOK;NOK;OK;NA;OK;OK;Pedido Livre - sem cotaÁ„o;solicitamos lista de itens sem necessidade de cotaÁ„o -  aguardando ok;VITOR;12/02/2024;FINALIZADO;PONTO DE ATEN«√O 
+26;22/01/2024; ISAAC FILIAL CEREAIS;1695;7165;NOK;NOK;OK;NA;OK;OK;Pedido Livre - sem cotaÁ„o;solicitamos lista de itens sem necessidade de cotaÁ„o -  retorno ok;VITOR;12/02/2024;FINALIZADO;PONTO DE ATEN«√O 
+27;01/02/2024; QUALLYGRAMA FILIAL CE;1639;12349;NOK;NOK;OK;NA;NOK;OK;sem cotaÁ„o - e aprovaÁ„o indevida ;mandei email para o Vitor - retorno ok;VITOR;01/02/2024;FINALIZADO;PONTO DE ATEN«√O 
 28;01/02/2024; ISAAC FILIAL CEREAIS;2120;8067;OK;OK;OK;NA;OK;OK;Pedido ok;;BRUNO;01/02/2024;FINALIZADO;CONFORME
-29;02/02/2024;QUALLYGRAMA MATRIZ;CONTRATO 2;12570;NA;NA;NA;NA;NA;OK;N√£o √© um contrato, lan√ßamento errado;email para saber o motivo do doc escolhido ser contrato - retorno ok;BRUNA;01/02/2024;FINALIZADO;AUDITORIA FORA DO PROCESSO
+29;02/02/2024;QUALLYGRAMA MATRIZ;CONTRATO 2;12570;NA;NA;NA;NA;NA;OK;N„o È um contrato, lanÁamento errado;email para saber o motivo do doc escolhido ser contrato - retorno ok;BRUNA;01/02/2024;FINALIZADO;AUDITORIA FORA DO PROCESSO
 30;05/02/2024;QUALLYGRAMA FILIAL BA;1753;12952;OK;OK;OK;NA;OK;OK;Pedido ok obs: venc 15/02;comprovante ok;RENAN;"
 15/02/2024";FINALIZADO;CONFORME
-31;05/02/2024;QUALLYGRAMA FILIAL PB;1796;12349;NOK;NOK;OK;NA;OK;NA;Pedido cancelado - ;Justificativa p/ email -retorno ok;VITOR;09/02/2024;FINALIZADO;PONTO DE ATEN√á√ÉO 
+31;05/02/2024;QUALLYGRAMA FILIAL PB;1796;12349;NOK;NOK;OK;NA;OK;NA;Pedido cancelado - ;Justificativa p/ email -retorno ok;VITOR;09/02/2024;FINALIZADO;PONTO DE ATEN«√O 
 32;08/02/2024;QUALLYGRAMA FILIAL PB;1818;12879;NA;NA;OK;NA;OK;OK;Pedido de compra Livre - frete obs: venc 08/02;"Email para o Vitor - retorno ok anexado -
 ";VITOR;"
 08/02/2024";FINALIZADO;CONFORME
 33;08/02/2024;QUALLYGRAMA FILIAL PB;1840;12922;NA;NA;OK;NA;OK;OK;Pedido de compra Livre - frete obs: venc 08/02;"Email para o Vitor - retorno ok anexado - 
 ";VITOR;"
-08/02/2024";FINALIZADO;PONTO DE ATEN√á√ÉO 
+08/02/2024";FINALIZADO;PONTO DE ATEN«√O 
 34;08/02/2024;ISAAC FILIAL CEREAIS;1963;"8313
 8288";NOK;NOK;OK;NA;OK;OK;Pedido de compra Livre obs: venc  08/02;"Email para o Bruno - retorno ok anexado -
 ";BRUNO;"
-08/02/2024";FINALIZADO;PONTO DE ATEN√á√ÉO 
+08/02/2024";FINALIZADO;PONTO DE ATEN«√O 
 35;08/02/2024;QUALLYGRAMA FILIAL BA;1768;12457;NA;NA;OK;NA;OK;OK;Pedido de compra Livre obs: venc 12/02;Email para o Renan - retorno ok anexado ;RENAN;"
 12/02/2024";FINALIZADO;CONFORME
 36;08/02/2024;ISAAC MATRIZ GRAMA;2012;7966;NOK;NOK;OK;NA;OK;OK;Pedido de compra Livre obs: venc 16/02;"Email para o Bruno - retorno ok anexado - 
 ";BRUNO;"
-16/02/2024";FINALIZADO;PONTO DE ATEN√á√ÉO 
+16/02/2024";FINALIZADO;PONTO DE ATEN«√O 
 37;08/02/2024;QUALLYGRAMA FILIAL BA;1628;12008;NA;NA;OK;OK;OK;OK;Pedido urgente - justificativa anexada - venc 16/02;;RENAN;16/02/2024;FINALIZADO;CONFORME
 38;08/02/2024;QUALLYGRAMA MATRIZ;1532;11818;NA;NA;OK;NA;OK;OK;Pedido livre - pgto IPVA obs: venc 16/02;;VITOR;16/02/2024;FINALIZADO;CONFORME
 39;08/02/2024;ISAAC FILIAL CEREAIS;1881;"7526
 7537/7538";OK;OK;OK;NA;OK;OK;Pedido ok ;;BRUNO;"
 12/02/2024";FINALIZADO;CONFORME
 40;09/02/2024;ISAAC FILIAL CEREAIS;2237;8456;NA;NA;OK;NA;OK;OK;Pedido livre - justificativa anexada obs: 14/02;;BRUNO;14/02/2024;FINALIZADO;CONFORME
-41;14/02/2024;QUALLYGRAMA ESCRIT√ìRIO;"CONTRATO
+41;14/02/2024;QUALLYGRAMA ESCRIT”RIO;"CONTRATO
 3020224";7526;NA;NA;NA;NA;NA;OK;SICRED - obs: venc 23/02;Email para o Bruna - retorno ok;BRUNA;"
 23/02/2024";FINALIZADO;CONFORME
-42;14/02/2024;ISAAC FILIAL CEREAIS;2032;8134;NA;NA;NA;OK;OK;OK;Pedido de urgencia - obs: venc 19/02;Email para o Bruno - retorno ok  - sugest√£o - verificar se o procedimento de deixar o item fora da fazenda est√° correto. ;BRUNO;"
-20/02/2024";FINALIZADO;PONTO DE ATEN√á√ÉO 
+42;14/02/2024;ISAAC FILIAL CEREAIS;2032;8134;NA;NA;NA;OK;OK;OK;Pedido de urgencia - obs: venc 19/02;Email para o Bruno - retorno ok  - sugest„o - verificar se o procedimento de deixar o item fora da fazenda est· correto. ;BRUNO;"
+20/02/2024";FINALIZADO;PONTO DE ATEN«√O 
 43;14/02/2024;ISAAC MATRIZ GRAMA;2038;8128;NA;NA;NA;OK;OK;OK;Pedido de  urgencia- obs: venc 20/02;"Email para o Bruno - retorno ok  - 
  comprovante de pagamento ok";BRUNO;"
-20/02/2024";FINALIZADO;PONTO DE ATEN√á√ÉO 
+20/02/2024";FINALIZADO;PONTO DE ATEN«√O 
 44;14/02/2024;QUALLYGRAMA MATRIZ;1691;12443;NOK;NOK;OK;NA;OK;OK;Pedido de urgencia - obs: venc 20/02;"Email para o Bruno - retorno ok - 
 ";BRUNO;"
-20/02/2025";FINALIZADO;PONTO DE ATEN√á√ÉO 
+20/02/2025";FINALIZADO;PONTO DE ATEN«√O 
 45;14/02/2024;QUALLYGRAMA MATRIZ;1690;12442;OK;OK;OK;NA;OK;OK;Pedido ok - obs: venc 21/03;;BRUNO;"
 21/03/2024";FINALIZADO;CONFORME
 46;14/02/2024;ISAAC MATRIZ GRAMA;1933;7542;OK;OK;OK;NA;OK;OK;Pedido ok -  obs: venc 19/02;;BRUNO;"
 19/02/2024";FINALIZADO;CONFORME
 47;14/02/2024;ISAAC MATRIZ GRAMA;1463;6405;NOK;NOK;OK;OK;OK;OK;Pedido urgente - ;"Email para o Renan -  retorno ok - 
-o estoque estava zerado , por isso a compra urgente, verificar se est√° correto o procedimento do estoque";RENAN;"
-23/02/2024";FINALIZADO;PONTO DE ATEN√á√ÉO 
-48;21/02/2024;QUALLYGRAMA MATRIZ ;folha 50;13250;NA;NA;NA;NA;NA;NA;"Referente a folha de pagamento - a informa√ß√£o √© somente no finan
-ceiro, o valor √© geral (adiantamento de sal√°rio) R$ 65.504,00";Estamos criando um trabalho de auditoria do departamento de RH, para analisarmos os precedimentos e assim entender o processo da folha de pagamento.;ARIANE;23/02/2024;FINALIZADO;PONTO DE ATEN√á√ÉO 
+o estoque estava zerado , por isso a compra urgente, verificar se est· correto o procedimento do estoque";RENAN;"
+23/02/2024";FINALIZADO;PONTO DE ATEN«√O 
+48;21/02/2024;QUALLYGRAMA MATRIZ ;folha 50;13250;NA;NA;NA;NA;NA;NA;"Referente a folha de pagamento - a informaÁ„o È somente no finan
+ceiro, o valor È geral (adiantamento de sal·rio) R$ 65.504,00";Estamos criando um trabalho de auditoria do departamento de RH, para analisarmos os precedimentos e assim entender o processo da folha de pagamento.;ARIANE;23/02/2024;FINALIZADO;PONTO DE ATEN«√O 
 49;23/02/2024;QUALLYGRAMA FILIAL PB;1787;12585;NA;NA;OK;NA;OK;OK;Pedido de compra Livre - obs: venc 29/02;"E-mail para entender o processo de fechamento de combustivel -  retorno ok 
-Vai se implantado o modulo de controlede combustiveis, previs√£o para o inicio de Abril";BRUNO;"
-29/02/2024";FINALIZADO;PONTO DE ATEN√á√ÉO 
+Vai se implantado o modulo de controlede combustiveis, previs„o para o inicio de Abril";BRUNO;"
+29/02/2024";FINALIZADO;PONTO DE ATEN«√O 
 50;23/02/2024;ISAAC FILIAL CEREAIS;1969;7662;OK;OK;OK;NA;OK;OK;Pedido ok - obs: venc 26/02;;BRUNO;26/02/2024;FINALIZADO;CONFORME
 51;23/02/2024;ISAAC MATRIZ GRAMA;1971;7665;OK;OK;OK;NA;OK;OK;Pedido ok - obs: venc 26/02;;BRUNO;26/02/2024;FINALIZADO;CONFORME
-52;23/02/2024;QUALLYGRAMA ESCRIT√ìRIO;"CONTRATO 
+52;23/02/2024;QUALLYGRAMA ESCRIT”RIO;"CONTRATO 
 3340324";7772;NA;NA;NA;NA;OK;OK;Banco do Brasil - contrato ok - vencimento 01/03;;BRUNA ;"
 01/03/2024";FINALIZADO;CONFORME
 53;23/02/2024;QUALLYGRAMA MATRIZ;1606;11653;NA;NA;OK;NA;OK;OK;Pedido de compra Livre - obs: venc 04/03;"E-mail para entender o processo de fechamento de combustivel -  retorno ok 
-Vai se implantado o modulo de controle de combustiveis, previs√£o para o inicio de Abril";BRUNO;"
-01/03/2024";FINALIZADO;PONTO DE ATEN√á√ÉO 
-54;23/02/2024;ISAAC MATRIZ GRAMA;2407;8899;NOK;NOK;OK;NA;OK;OK;Pedido de compra Livre - obs: venc 23/02;Email p/ o Vitor perguntando se h√° procedimento p/ o pedido de turmeiro - retorno ok    comprovante ok,  sugest√£o - colocar n¬∫ de pessoas e e valores da diaria a pagar por pessoa;LUANA;"
-23/02/2024";FINALIZADO;PONTO DE ATEN√á√ÉO 
+Vai se implantado o modulo de controle de combustiveis, previs„o para o inicio de Abril";BRUNO;"
+01/03/2024";FINALIZADO;PONTO DE ATEN«√O 
+54;23/02/2024;ISAAC MATRIZ GRAMA;2407;8899;NOK;NOK;OK;NA;OK;OK;Pedido de compra Livre - obs: venc 23/02;Email p/ o Vitor perguntando se h· procedimento p/ o pedido de turmeiro - retorno ok    comprovante ok,  sugest„o - colocar n∫ de pessoas e e valores da diaria a pagar por pessoa;LUANA;"
+23/02/2024";FINALIZADO;PONTO DE ATEN«√O 
 55;28/02/2024;QUALLYGRAMA FILIAL BA;1889;13130;OK;NA;OK;NA;OK;OK;Pedido - obs: venc 28/02;;RENAN;28/02/2024;FINALIZADO;CONFORME
-56;28/02/2024;ISAAC MATRIZ GRAMA;2311;8643;NOK;NOK;OK;NA;OK;OK;Pedido livre - sem cota√ß√µes;"email para saber p motivo de n√£o ter cota√ß√µes -  verificar com o gestor o porque n√£o 
-est√° sendo feito a cota√ß√£o";BRUNO;28/02/2024;FINALIZADO;AUDITORIA FORA DO PROCESSO
+56;28/02/2024;ISAAC MATRIZ GRAMA;2311;8643;NOK;NOK;OK;NA;OK;OK;Pedido livre - sem cotaÁıes;"email para saber p motivo de n„o ter cotaÁıes -  verificar com o gestor o porque n„o 
+est· sendo feito a cotaÁ„o";BRUNO;28/02/2024;FINALIZADO;AUDITORIA FORA DO PROCESSO
